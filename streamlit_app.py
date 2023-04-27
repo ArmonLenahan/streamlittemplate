@@ -11,6 +11,7 @@ st.title('Streamlit Tab Test with Custom Colors')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab2", "Tab3"])
 
 with tab1:
+	st.header('Welcome to the Jungle')
 	st.subheader('Widgets')
 	st.button('Click me')
 	st.checkbox('I agree')
