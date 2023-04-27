@@ -7,7 +7,7 @@ def foo():
 
 
 st.set_page_config(layout='wide')
-st.title('Streamlit Tab Test with Custom Colors')
+st.title('WELCOME TO THE JUNGLE Streamlit Tab Test with Custom Colors')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab2", "Tab3"])
 
 with tab1:
