@@ -13,7 +13,7 @@ tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab2", "Tab3"])
 with tab1:
 	st.header('WE GOT FUN & GAMES')
 	st.subheader('Widgets')
-	st.button('Click me')
+	st.button('Josh Allen is the best QB in the NFL (check box below if you agree)')
 	st.checkbox('I agree')
 
 with tab2:
