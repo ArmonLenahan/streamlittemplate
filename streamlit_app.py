@@ -14,7 +14,7 @@ with tab1:
 	st.header('WE GOT FUN & GAMES')
 	st.subheader('Widgets')
 	st.button('Josh Allen is the best QB in the NFL (check box below if you agree)')
-	st.checkbox('I agree')
+	st.checkbox('Shit YEAH I agree')
 
 with tab2:
 	st.radio('Pick one', ['cats', 'dogs'])
