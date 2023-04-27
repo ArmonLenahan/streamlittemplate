@@ -7,11 +7,11 @@ def foo():
 
 
 st.set_page_config(layout='wide')
-st.title('WELCOME TO THE JUNGLE Streamlit Tab Test with Custom Colors')
+st.title('WELCOME TO THE JUNGLE ')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab2", "Tab3"])
 
 with tab1:
-	st.header('Welcome to the Jungle')
+	st.header('WE GOT FUN & GAMES')
 	st.subheader('Widgets')
 	st.button('Click me')
 	st.checkbox('I agree')
